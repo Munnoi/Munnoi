@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Munnoi! 👋
 
 Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and **sharing knowledge**. Here's a little bit about me:

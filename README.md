@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 ---
 
 ## 🤝 Connect with Me
-- 📫 **Email:** [munnoi@example.com](mailto:munnoi@example.com)
+- 📫 **Email:** [munnoi@example.com](mailto:midhunbinoy123@example.com)
 - 💬 **LinkedIn:** [linkedin.com/in/munnoi](https://linkedin.com/in/munnoi)
 
 ---

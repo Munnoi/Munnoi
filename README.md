@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 
 ## 🌟 About Me
 - 📖 Avid reader and lifelong learner.
-- 🎮 Gamer at heart — currently obsessed with **PUBG**.
 - 🛠️ Love creating cool things with **code** and exploring new technologies.
 - ✍️ Enjoy writing and sharing my experiences and ideas.
 
@@ -26,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 
 ## 📈 GitHub Stats
 ![Munnoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munnoi&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 ---
 
@@ -44,4 +44,3 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 Thanks for visiting my profile! 🌟
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" /></a>

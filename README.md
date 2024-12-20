@@ -25,6 +25,11 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 ![Munnoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munnoi&show_icons=true&theme=radical)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 📌 Highlighted Projects

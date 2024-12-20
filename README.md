@@ -19,6 +19,12 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+### **Frameworks & Tools**
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 ---
 
 ## 📈 GitHub Stats
@@ -32,6 +38,10 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=web&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
+
 ## 📌 Highlighted Projects
 - [**My Cool Project**](https://github.com/Munnoi/my-cool-project): A brief description of the project.
 - [**Another Amazing Project**](https://github.com/Munnoi/another-amazing-project): A brief description of this project.
@@ -43,6 +53,8 @@ Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and
 - 💬 **LinkedIn:** [linkedin.com/in/munnoi](https://linkedin.com/in/munnoi)
 
 ---
+
+🚀 _“Code. Build. Game. Repeat.”_
 
 Thanks for visiting my profile! 🌟
 

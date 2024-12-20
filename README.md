@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and **sharing knowledge**. Here's a little bit about me:
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ---
 
 ## 🌟 About Me

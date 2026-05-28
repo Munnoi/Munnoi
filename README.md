@@ -1,81 +1,15 @@
-# Hi there, I'm Munnoi! 👋
+# 💫 About Me:
+## 🌟 About Me<br><br>Hi! I'm Munnoi — a passionate developer who loves building things, solving problems, and continuously learning new technologies. I enjoy exploring both front-end and back-end development, with a strong interest in Python, AI/ML, and modern web technologies.<br><br>- Aspiring Full-Stack Developer<br>- Curious about AI, Machine Learning, and Software Engineering<br>- Love building projects and experimenting with new ideas<br>- Avid reader interested in philosophy, productivity, and self-improvement<br>- Strong interest in mathematics, problem-solving, and coding challenges<br>- Focused on improving every day through consistency and discipline<br><br>I enjoy turning ideas into projects and believe that learning by building is the best way to grow as a developer.<br>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
-</p>
 
-<p align="center">
-  <strong>Full-Stack Developer | Lifelong Learner | Problem Solver</strong>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Midhun Binoy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:midhunbinoy123@gmail.com) 
 
-<p align="center">
-  <a href="https://linkedin.com/in/munnoi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=hubspot&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
-  <a href="mailto:midhunbinoy123@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Munnoi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Munnoi&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Munnoi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🌟 About Me
-
-- 🛠️ Passionate about creating **clean, aesthetic, and functional** web applications.
-- 📖 Dedicated to relentless self-improvement, deep-work habits, and learning new tech.
-- 🎯 Focused on mastering full-stack ecosystems and building tools that optimize daily life.
-
----
-
-## 🔧 Technologies & Tools
-
-### **Frontend Development**
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
-
-### **Backend & Scripting**
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-
-### **DevOps & Productivity**
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📌 Highlighted Projects
-
-### 🛠️ [Habit Tracker Application](https://github.com/Munnoi/habit-tracker)
-> A comprehensive personal productivity tool engineered to help users build discipline through systematic tracking and data analytics.
-- **Tech Stack:** React, Python, Tailored UI components.
-
-### 📊 [Smart Discharge Analyzer](https://github.com/Munnoi/smart-discharge-analyzer)
-> An analytical tool designed to break down and process complex data patterns for actionable insights.
-- **Tech Stack:** Full-Stack web technologies.
-
-### 🌐 [Aesthetic Blog Platform](https://github.com/Munnoi/blog-site)
-> A modern blog website featuring a highly responsive grid layout and minimalist design principles.
-- **Tech Stack:** JavaScript, CSS Grid / Bootstrap 5.
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munnoi&show_icons=true&theme=radical" alt="Munnoi's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munnoi&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- **LinkedIn:** [/in/munnoi](https://linkedin.com/in/munnoi)
-- **Email:** [midhunbinoy123@example.com](mailto:midhunbinoy123@example.com)
-
-<p align="center">
-  🚀 <em>“Code. Build. Optimize. Repeat.”</em>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,63 +1,81 @@
 # Hi there, I'm Munnoi! 👋
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Readme Quotes" />
+</p>
 
-Welcome to my GitHub profile! I'm passionate about **coding**, **learning**, and **sharing knowledge**. Here's a little bit about me:
+<p align="center">
+  <strong>Full-Stack Developer | Lifelong Learner | Problem Solver</strong>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/munnoi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=hubspot&logoColor=white&style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:midhunbinoy123@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+</p>
 
 ---
 
 ## 🌟 About Me
-- 📖 Avid reader and lifelong learner.
-- 🛠️ Love creating cool things with **code** and exploring new technologies.
-- ✍️ Enjoy writing and sharing my experiences and ideas.
+
+- 🛠️ Passionate about creating **clean, aesthetic, and functional** web applications.
+- 📖 Dedicated to relentless self-improvement, deep-work habits, and learning new tech.
+- 🎯 Focused on mastering full-stack ecosystems and building tools that optimize daily life.
 
 ---
 
 ## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### **Frameworks & Tools**
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+### **Frontend Development**
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 
----
+### **Backend & Scripting**
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 
-## 📈 GitHub Stats
-![Munnoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munnoi&show_icons=true&theme=radical)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-
-## Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munnoi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+### **DevOps & Productivity**
+![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=web&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
 
 ## 📌 Highlighted Projects
-- [**My Cool Project**](https://github.com/Munnoi/my-cool-project): A brief description of the project.
-- [**Another Amazing Project**](https://github.com/Munnoi/another-amazing-project): A brief description of this project.
+
+### 🛠️ [Habit Tracker Application](https://github.com/Munnoi/habit-tracker)
+> A comprehensive personal productivity tool engineered to help users build discipline through systematic tracking and data analytics.
+- **Tech Stack:** React, Python, Tailored UI components.
+
+### 📊 [Smart Discharge Analyzer](https://github.com/Munnoi/smart-discharge-analyzer)
+> An analytical tool designed to break down and process complex data patterns for actionable insights.
+- **Tech Stack:** Full-Stack web technologies.
+
+### 🌐 [Aesthetic Blog Platform](https://github.com/Munnoi/blog-site)
+> A modern blog website featuring a highly responsive grid layout and minimalist design principles.
+- **Tech Stack:** JavaScript, CSS Grid / Bootstrap 5.
 
 ---
 
-## 🤝 Connect with Me
-- 📫 **Email:** [munnoi@example.com](mailto:midhunbinoy123@example.com)
-- 💬 **LinkedIn:** [linkedin.com/in/munnoi](https://linkedin.com/in/munnoi)
+## 📈 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munnoi&show_icons=true&theme=radical" alt="Munnoi's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munnoi&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-wine-three.vercel.app?user=Munnoi&theme=tokyonight-duo" alt="GitHub Streak" width="98%" />
+</p>
 
 ---
 
-🚀 _“Code. Build. Game. Repeat.”_
+## 🤝 Let's Connect
 
-Thanks for visiting my profile! 🌟
+- **LinkedIn:** [/in/munnoi](https://linkedin.com/in/munnoi)
+- **Email:** [midhunbinoy123@example.com](mailto:midhunbinoy123@example.com)
 
-
+<p align="center">
+  🚀 <em>“Code. Build. Optimize. Repeat.”</em>
+</p>
